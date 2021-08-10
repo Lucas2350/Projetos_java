@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Aplicativo_Presenca</string>
+    <string name="rgm">rgm</string>
+    <string name="senha">senha</string>
+    <string name="conectar">conectar</string>
+    <string name="usuario">rgm</string>
+    <string name="materia1"></string>
+    <string name="dia1"></string>
+    <string name="hora2"></string>
+    <string name="data2"></string>
+    <string name="data4"></string>
+    <string name="materia"></string>
+    <string name="dia"></string>
+    <string name="lat2"></string>
+    <string name="lon3"></string>
+    <string name="hora">hora</string>
+    <string name="min">min</string>
+    <string name="registrar">Registrar Precença</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="lat"></string>
+    <string name="lon"></string>
+    <string name="lat1"></string>
+    <string name="lon1"></string>
+
+
+</resources>
